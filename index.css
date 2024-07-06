@@ -472,10 +472,10 @@ video {
 .leading-7 {
   line-height: 1.75rem;
 }
-.text-blue-500 {
+.blue-link {
   --tw-text-opacity: 1;
-  color: rgba(59, 130, 246, 1);
-  color: rgba(59, 130, 246, var(--tw-text-opacity));
+  color: rgba(9, 79, 195, 1);
+  color: rgba(9, 79, 195, var(--tw-text-opacity));
 }
 .text-gray-900 {
   --tw-text-opacity: 1;
